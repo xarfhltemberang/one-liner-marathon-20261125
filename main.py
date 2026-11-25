@@ -3,6 +3,7 @@
 
 import os
 
+# The entry text, kept as one logical line; wording must not be changed.
 JOKE = (
     "My smoke detector beeps every 47 minutes to remind me it exists, which "
     "is the same rate my landlord texts \"just checking in\" after I ask him "
